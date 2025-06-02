@@ -29,7 +29,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone (https://yashbhole3010.github.io/Tic-Tac-Toe-Web-Application/)
+git clone (https://yashbhole3010.github.io/Tic-Tac-Toe-Web-Application-credora_task3/)
 cd tic-tac-toe-web
 Open index.html in your browser and start playing!
 
